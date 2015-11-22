@@ -1,0 +1,31 @@
+Data Structures:
+  Data structures include the use of an array in python in order to sort thorugh all the information with the key 
+  terms(selected holidays). By creating one array out of all the information the python script could look through each
+  element and sort out information.
+
+Will you add any data from the web?
+	No more data from the web will be added as we are just searching through all the objects in the given JSON file.
+
+Code:
+	The code that transforms out data set from 100,000 objects is in the git repository.
+
+Paragraph for why processing data a certain way:
+	The data will be processed first by keywords in the user tags and machine tags specific to the preselected holidays.
+	This will give us all the images that people have tagged with those keywords and then later the images will be processed 
+	by geolocation. The geolocation will allow us to pinpoint where the photo was uploaded from, thus, creating the backbone 
+	for our location portion of the application. Once the data is sorted by geolocation it will then again by sorted by date 
+	uploaded. This will provide the final data filter in order for our application to work correctly. The application user 
+	can now select a holiday and then a date around that holiday to display which geolocation(state) uploaded the most 
+	pictures related to that holiday.
+
+
+
+
+
+
+
+
+
+
+Updated Mockups
+  
