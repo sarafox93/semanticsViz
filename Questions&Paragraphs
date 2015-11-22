@@ -19,4 +19,6 @@ Paragraph for why processing data a certain way:
 	pictures related to that holiday.
 
 
-  
+ Concept Specifications:
+ 	The concept is that the user can interacively select a holiday and the state with the most posts. The user can select the 
+ 	day before the holiday or the day after and see if the state with the most posts change. 
